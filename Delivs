@@ -1,0 +1,16 @@
+see first cake details on pageload into cake-details div
+name cake-name X
+image cake-image X
+desc cake-description X
+reviews review-list X
+remove fake reviews X
+
+TWO 2
+see menu of cakes in nav element
+
+THREE 3
+add new review to page when form submitted
+review-from >>> cakeList
+add EventListener
+Prevvent default
+for text input.value create new li, modify content to value
